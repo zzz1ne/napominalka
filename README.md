@@ -18,12 +18,4 @@
 | --- | --- |
 | <img src="docs/planner.png" width="260" alt="Список задач с круговым отсчётом"> | <img src="docs/completed-menu.png" width="260" alt="Меню удаления и восстановления"> |
 
-## Сборка
 
-Откройте репозиторий в Android Studio. Для сборки нужны Android SDK 36 и JDK 17 или 21. Проект использует Kotlin, Jetpack Compose и SQLite.
-
-```sh
-./gradlew :app:assembleDebug :app:testDebugUnitTest :app:lintDebug
-```
-
-На Windows используйте `gradlew.bat` или `build.ps1`, если путь содержит кириллицу. Результаты проверки APK v1.1.1 описаны в [отчёте](docs/VERIFICATION.md).
