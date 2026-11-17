@@ -1,0 +1,7 @@
+ru.ritm.planner.PlannerUiTest:.......
+ru.ritm.planner.ReminderDeliveryTest:.
+ru.ritm.planner.data.TaskDatabaseTest:...
+
+Time: 70.223
+
+OK (11 tests)
